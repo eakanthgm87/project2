@@ -6,3 +6,4 @@ pywebpush
 celery
 redis
 django-cors-headers
+dj-database-url   
