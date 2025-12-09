@@ -14,3 +14,4 @@ Notes:
 - Settings default to sqlite. To use PostgreSQL set USE_POSTGRES=True and configure env vars.
 - OpenLayers is used in templates for mapping.
 - This scaffold includes API endpoints under /api/
+nnn
